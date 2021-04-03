@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/kangos_RMX2151.mk
+    $(LOCAL_DIR)/octavios_RMX2151.mk
