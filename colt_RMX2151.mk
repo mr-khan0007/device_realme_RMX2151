@@ -24,7 +24,7 @@ $(call inherit-product, device/realme/RMX2151/device.mk)
 # Inherit some common Lineage OS stuff.
 $(call inherit-product, vendor/colt/config/common.mk)
 TARGET_GAPPS_ARCH := arm64
-TARGET_BOOT_ANIMATION_RES := 1080
+TARGET_BOOT_ANIMATION_RES := 1080x1920
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := colt_RMX2151
 PRODUCT_DEVICE := RMX2151
