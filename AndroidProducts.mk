@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ssos_RMX2151.mk
+    $(LOCAL_DIR)/colt_RMX2151.mk
